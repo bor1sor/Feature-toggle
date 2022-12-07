@@ -1,9 +1,10 @@
-var cookies = 6;
+var chicken = 5;
 
-while (cookies > 0) {
-  console.log("Open the box");
-  console.log("Take a cookie");
-  console.log("eat a cookie");
-  console.log("close the box");
-  cookies--;
+while (chicken > 0) {
+  console.log("See the advertisement");
+  console.log("Launch the car");
+  console.log("Go to Los Pollos Hemanos");
+  console.log("Buy some Fried chicken");
+  console.log("Done")
+  chicken--;
 }
