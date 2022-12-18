@@ -2,12 +2,13 @@
   "name": "feature-toggle-h",
   "version": "1.0.0",
   "description": "Jest 1",
-  "main": "Null2.js",
+  "main": "index.js",
   "scripts": {
-    
-    "test": "npm test"
-    
-  
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "type": "module"
   },
   "repository": {
     "type": "git",
