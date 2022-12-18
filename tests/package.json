@@ -5,9 +5,9 @@
   "main": "Null2.js",
   "scripts": {
     
-    "test": "jest"
+    "test": "npm test"
     
-    
+  
   },
   "repository": {
     "type": "git",
