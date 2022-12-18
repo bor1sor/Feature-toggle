@@ -4,7 +4,10 @@
   "description": "Jest 1",
   "main": "Null2.js",
   "scripts": {
-    "test": "npm jest"
+    
+    "test": "jest"
+    
+    
   },
   "repository": {
     "type": "git",
