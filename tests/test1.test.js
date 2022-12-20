@@ -1,2 +1,3 @@
-const sum = (a, b, c) => a + b + c + d
-console.log(sum(a = -10, b = 58, c = 741, d = 90))
+pm.test("ТЕСТ", function () {
+    pm.expect(pm.response.code).to.be.oneOf([200, 202]);
+});
