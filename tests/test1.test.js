@@ -1,2 +1,2 @@
-const sum = (a, b, c) => a + b + c
-console.log(sum(a = 5, b = 4, c = 8))
+const sum = (a, b, c) => a + b + c + d
+console.log(sum(a = -10, b = 58, c = 741, d = 90))

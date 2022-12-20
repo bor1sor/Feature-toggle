@@ -1,5 +1,4 @@
-const sum = require('./sum.test');
-
-test('adds 1 + 2 to equal 3', () => {
-  expect(sum(1, 2)).toBe(3);
+//first.test.js
+test('My second test', () => {
+  expect(Math.max(0, 50, 100)).toBe(100);
 });
