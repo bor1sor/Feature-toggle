@@ -4,4 +4,4 @@ weight = input ("Type your weight:")
 
 print ("Hello," + name + "!")
 print ("You are" + age + "years, already")
-print ("Your weight is" + weight + "lbs")
+print ("Your weight is" + weight + "1lbs")
