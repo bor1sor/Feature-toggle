@@ -1,4 +1,4 @@
-var chicken = 5;
+var chicken = 1;
 
 while (chicken > 0) {
   console.log("See the advertisement");
