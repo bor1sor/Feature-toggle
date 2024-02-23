@@ -15,7 +15,7 @@ time.sleep(8)
 
 # navigate to walmart.com and wait for page to load
 driver.get("https://www.walmart.com/")
-time.sleep(5)
+time.sleep(9)
 
 # take screenshot
 driver.save_screenshot("walmart_screenshot.png")
