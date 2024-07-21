@@ -3,4 +3,4 @@ b = 527
 c = 850
 if b > c:
     c = a
-print(c)
+print(a)
