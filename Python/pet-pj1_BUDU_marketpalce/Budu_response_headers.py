@@ -1,6 +1,6 @@
 import requests
 
-url = "https://budu.ru/"
+url = "https://budu.com/"
 response = requests.get(url)
 
 # Print Headers
