@@ -4,7 +4,7 @@ import time
 
 driver = webdriver.Chrome()
 
-driver.get("https://openai.com/")
+driver.get("https://www.toysrus.com/")
 time.sleep(5)
 
 driver.save_screenshot("screenshot_test.png")
