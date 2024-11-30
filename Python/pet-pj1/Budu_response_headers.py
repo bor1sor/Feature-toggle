@@ -3,5 +3,5 @@ import requests
 url = "https://budu.ru/"
 response = requests.get(url)
 
-# Выводим заголовки
+# Print Headers
 print(response.headers)
