@@ -3,7 +3,7 @@ from bs4 import BeautifulSoup
 
 def test_page_content():
     url = "https://maxler.de/en/" 
-    expected_content = "Liquid" 
+    expected_content = "About" 
 
     
 
